@@ -63,6 +63,14 @@ body {
     text-align: center;
     letter-spacing: 2px;
     font-weight: bold;
+}
+
+.profession-description {
+    padding: 0px;
+    color: #d6dbdfaf;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 18px;
     padding-bottom: 1rem;
 }
 
@@ -163,6 +171,10 @@ body {
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
     color: #F1F8FD;
+}
+
+.details-content {
+    padding-bottom: 1rem;
 }
 
 .exp-company-name,
